@@ -1,0 +1,10 @@
+.three       { width: 25%; }
+
+.columns {
+   position: relative;
+   padding: 0 20px;
+   min-height: 1px;
+   float: left;
+   }
+   
+.nine        { width: 75%; }

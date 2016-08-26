@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+	<item>
+		<content><![CDATA[<span align="center" class="title"><font size="+4">RULES AND GUIDELINES</font></span>
+<p align="justify"><font size="14">1. Only one robot per team is allowed.<br>
+2. Max no of people per team is 5.<br>
+3. The robots should be within 25cm * 25cm * 25cm.<br>
+4. Robots must be autonomous.Data links to off-board computers are allowed, but no wetware (human) operated remote controls will be permitted.<br>
+5. The robots must have an accessible on/off switch.<br>
+6. The power supply for the vehicle should be contained on-board, and should not exceed 15V between any two points in the circuit.<br>
+7. The time will be measured from the moment the robot crosses the starting line till it crosses the finish line. A robot is deemed to have crossed the finish line when the foremost wheel, track, or leg of the robot contacts or crosses over the line.A maximum of 3 minutes is allowed to complete the course; else this will lead to disqualification.Time shall be measured by an electronic gate system or by a judge with a stopwatch, based on the availability of equipment. In either case the recorded time shall be final.<br>
+8. A robot that wanders off of the arena surface will be disqualified. A robot shall be deemed to have left the arena when any wheel, leg, or track has moved completely off the arena surface.<br>
+9. If the robot loses the course line then it has to reacquire the line at the point at which the line was lost or an earlier traversed point. If the robot fails to do so it will be one chance to reattempt. The robot must start the course again from the beginning, and if it loses the line course on its second attempt it will be disqualified.<br>
+10. The decisions of all officials regarding these rules and the conduct of the event shall be final.
+</font></p> ]]></content>
+	</item>
+</items>

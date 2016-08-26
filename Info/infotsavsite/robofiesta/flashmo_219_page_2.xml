@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+
+	<item>
+		<content><![CDATA[<span class="title"><font size="25">Main Events</font></span> ]]></content>
+	</item>
+	
+	<item> 
+		<content><![CDATA[<a href="mainevents/linefollower/index.html" target="_parent" class="subtitle"><font size="20" >Line Follower</font></a>
+]]></content></item>
+		<item><content><![CDATA[<a href="mainevents/openchallenge/index.html" target="_parent" class="subtitle"><font size="20" >Open Challenge</font></a>
+]]></content></item>
+		<item><content><![CDATA[<a href="mainevents/roborace/index.html" target="_parent" class="subtitle"><font size="20" >Robo Race</font></a>
+]]></content></item>
+		<item><content><![CDATA[<a href="mainevents/robosoccer/index.html" target="_parent" class="subtitle"><font size="20">Robo Soccer</font></a>
+]]></content></item>
+		<item><content><![CDATA[<a href="mainevents/robowars/index.html" target="_parent" class="subtitle"><font size="20" >Robo Wars</font></a>
+
+]]></content></item>
+	
+</items>

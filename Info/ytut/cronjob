@@ -1,0 +1,4 @@
+* * * * * /opt/lampp/bin/php /opt/lampp/htdocs/forex/updated.php
+* * * * * sleep 15; /opt/lampp/bin/php /opt/lampp/htdocs/forex/updated.php
+* * * * * sleep 30; /opt/lampp/bin/php /opt/lampp/htdocs/forex/updated.php
+* * * * * sleep 45; /opt/lampp/bin/php /opt/lampp/htdocs/forex/updated.php

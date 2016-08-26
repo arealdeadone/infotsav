@@ -1,0 +1,39 @@
+/* Me */
+
+#player {
+    position: absolute;
+    width: 22px;
+    height: 32px;
+    background: url(../images/may-walk.png) no-repeat 0 -30px;
+    top: 20px;
+    z-index: 53;
+}
+
+#player::after {
+    background: rgba(0, 0, 0, 0.3);
+    width: 16px;
+    height: 19px;
+    content: "";
+    bottom: -8px;
+    left: 8px;
+    position: absolute;
+    border-radius: 75px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);
+    z-index: 12;
+}
+
+/*#player.down {*/
+	/*background: url(../images/may-walk.png) no-repeat 0 10px;*/
+/*}*/
+
+/*#player.up {*/
+	/*background: url(../images/may-walk.png) 0 10px;*/
+/*}*/
+
+/*#player.right {*/
+	/*background: url(../images/may-walk.png) 0 10px;*/
+/*}*/
+
+/*#player.left {*/
+	/*background: url(../images/may-walk.png) 0 10px;*/
+/*}*/

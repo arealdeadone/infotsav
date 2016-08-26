@@ -1,0 +1,1146 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<EVENTLIST>
+	<EVENT>	
+		<ID>0</ID>
+		<TITLE>Akraman</TITLE>
+		<TAGLINE>The Hacking Contest</TAGLINE>
+		<IMAGE>akraman.png</IMAGE>
+		<DESCRIPTION>Infotsav-12 presents AKRAMAN-For all those who love to play off in the arena of hacking.
+The contest would trigger off such hacking questions to vouch for the youth's knack, which will battle in the arena of simmered potential threats. Come, accept the challenge and have fun HACKING.
+</DESCRIPTION>	
+		<RULES>The event will be held in two stages.
+.	Online event to be held on 5th November from 00:00:00 to 23:59:59     
+.	 The participants shortlisted after online event need to report at institute for the live event to be held on 10th November.
+Top two teams will be given the CASH PRIZE.
+       </RULES>
+		<TIMELINE></TIMELINE>
+		<DOWNLOADS></DOWNLOADS>
+		<CONTACTS>&lt;h4&gt;DSSR Akhilesh&lt;/h4&gt;
+&lt;p&gt;
+&lt;span
+class="phone"&gt;Phone: &lt;/span&gt;+91 7879930626&lt;br/&gt;
+                                                        &lt;span
+class="phone"&gt;E-mail: &lt;/span&gt;&lt;a href="
+https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to=akhilesh@infotsav.org"
+class="color1" target="_blank"&gt;akhilesh@infotsav.org&lt;/a&gt;
+                                                    &lt;/p&gt;
+                                                    &lt;br/&gt;
+&lt;h4&gt;Rathnadeep Kanaparthi&lt;/h4&gt;
+&lt;p&gt;
+&lt;span
+class="phone"&gt;Phone: &lt;/span&gt;+91 8989131404&lt;br/&gt;
+                                                        &lt;span
+class="phone"&gt;E-mail: &lt;/span&gt;&lt;a href="
+https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to=rathnadeep@infotsav.org"
+class="color1" target="_blank"&gt;rathnadeep@infotsav.org&lt;/a&gt;
+
+                                                    &lt;/p&gt;
+                                                    &lt;br/&gt;                                                   
+</CONTACTS>
+		<UPDATES></UPDATES>
+	</EVENT>
+	<EVENT>		
+		<ID>1</ID>
+		<TITLE>Reverse Engineering</TITLE>
+		<TAGLINE></TAGLINE>
+		<IMAGE></IMAGE>
+		<DESCRIPTION>Infotsav 2012 presents Reverse Engineering,a competition to prove your fundamental understanding skills as an engineer. It's here to test your logical thinking along with systematic approach to analyze the pattern. You are given an executable program or an application and are asked to do reverse coding, that is develop the source code</DESCRIPTION>	
+		<RULES>Candidate will participate individually.
+Event will be conducted in 3 Rounds -
+1.	First Round (Online Round) -This round will consist of 30 objective and 10 Subjective questions based on logical thinking and pattern recognition. Top 25 candidates of the first round will qualify for the second round. 
+2.	Second Round (On-Site Round) - In this round a set of 10 executable files will be provided to you along with the valid input range for those files. After analyzing the results produced by the executable file, candidates have to write a program that will produce same results. Allowed Languages - C, C++, Java and Python. Top 10 candidates from the second round will qualify for the final Round.
+3.	Third Round (On-Site Round) -A software package and a website will be given to the candidates. They have to modify those packages as per the requirements given by us.
+
+An e-mail regarding the rules and timings of the second round will be sent to the selected candidates after the completion of the first phase.
+In case of any discrepancy decision made by the organiser will be considered as final.
+For any queries mail us at reverseengg@infotsav.org
+</RULES>
+		<TIMELINE>First Round -5th September 2012
+Second Round - First Day of Infotsav
+Third Round - Second Day of Infotsav
+</TIMELINE>
+		<DOWNLOADS></DOWNLOADS>
+		<CONTACTS>&lt;h4&gt;Rajesh Kumar&lt;/h4&gt;
+                                                    &lt;p&gt;
+                                                        &lt;span
+class="phone"&gt;Phone: &lt;/span&gt;&lt;br/&gt;
+                                                        &lt;span
+class="phone"&gt;E-mail: &lt;/span&gt;&lt;a href="
+https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to="
+class="color1" target="_blank"&gt;&lt;/a&gt;
+
+                                                    &lt;/p&gt;
+                                                    &lt;br/&gt;
+&lt;h4&gt;Swati Sinha&lt;/h4&gt;
+&lt;p&gt;
+&lt;span
+class="phone"&gt;Phone: &lt;/span&gt;&lt;br/&gt;
+                                                        &lt;span
+class="phone"&gt;E-mail: &lt;/span&gt;&lt;a href="
+https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to="
+class="color1" target="_blank"&gt;&lt;/a&gt;
+
+                                                    &lt;/p&gt;
+                                                    &lt;br/&gt;
+
+													
+             </CONTACTS>
+		<UPDATES></UPDATES>
+	</EVENT>
+	<EVENT>	
+		<ID>2</ID>	
+		<TITLE>Code Weavers</TITLE>
+		<TAGLINE>Online Programming Contest</TAGLINE>
+		<IMAGE>codeweavers.png</IMAGE>
+		<DESCRIPTION>Do you have the brain of a genius? The online programming contest is here for you. Show your programming skills and provide
+the best possible solution you can. After all life doesn't give a second chance. So prove
+yourself on the battlefield and only then you will be a great warrior.</DESCRIPTION>	
+		<RULES>.	Team size is at most 3 members.
+.	This mega event will be hosted at CODECHEF (A Directi Educational Initiative). 
+.	So, all the participants are requested to register on the hosting website http://www.codechef.com prior to the commencement of the contest.
+.	Only students who are studying in graduate and post-graduate level in any Indian University are eligible to take part.
+.	Permitted languages to provide solution are C, C++ and Java
+.	Compilers to be used: 
+o	gcc (gcc (GCC) 4.1.2) for C 
+o	g++ (g++ (GCC) 4.1.2) for C++ 
+o	j2sdk1.5.0 (javac 1.5.0_10) for Java.
+.	Submission has to be done in a proper format on the host site (via file upload/embedded frame), failing which the entries shall not be accepted.
+.	If any team(s) is found to copy source code of other teams, that team will be immediately disqualified.
+.	Any team found having fake information regarding qualification criteria or profile information shall be immediately disqualified.
+.	Any team which attempts to hack/deliberately crash the judging system will be immediately disqualified.
+.	The decision of the organizers in declaring the results will be final and will be binding to all. No queries in this regard will be entertained.
+</RULES>
+		<TIMELINE></TIMELINE>
+		<DOWNLOADS></DOWNLOADS>
+		<CONTACTS>&lt;h4&gt;Sachchit Bansal&lt;/h4&gt;
+                                                    &lt;p&gt;
+                                                        &lt;span
+class="phone"&gt;Phone: &lt;/span&gt;+91 8305532657&lt;br/&gt;
+                                                        &lt;span
+class="phone"&gt;E-mail: &lt;/span&gt;&lt;a href="
+https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to=sachchit.bansal@infotsav.org"
+class="color1" target="_blank"&gt;sachchit.bansal@infotsav.org&lt;/a&gt;
+
+                                                    &lt;/p&gt;
+                                                    &lt;br/&gt;
+&lt;h4&gt;Kumar Vimal&lt;/h4&gt
+                                  &lt;p&gt;
+								  &lt;span
+class="phone"&gt;Phone: &lt;/span&gt;+91 9479875847&lt;br/&gt;
+                                                        &lt;span
+class="phone"&gt;E-mail: &lt;/span&gt;&lt;a href="
+https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to=kumar.vimal@infotsav.org"
+class="color1" target="_blank"&gt;kumar.vimal@infotsav.org&lt;/a&gt;
+
+                                                    &lt;/p&gt;
+                                                    &lt;br/&gt;
+&lt;h4&gt;Shaily Mittal&lt;/h4&gt;
+                                                    &lt;p&gt;
+                                                        &lt;span
+class="phone"&gt;Phone: &lt;/span&gt;+91 8817348953&lt;br/&gt;
+                                                        &lt;span
+class="phone"&gt;E-mail: &lt;/span&gt;&lt;a href="
+https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to=shaily.mittal@infotsav.org"
+class="color1" target="_blank"&gt;shaily.mittal@infotsav.org&lt;/a&gt;
+
+                                                    &lt;/p&gt;
+                                                    &lt;br/&gt;</CONTACTS>
+		<UPDATES></UPDATES>
+	</EVENT>
+	<EVENT>	
+		<ID>3</ID>	
+		<TITLE>App Skill</TITLE>
+		<TAGLINE>Open software contest</TAGLINE>
+		<IMAGE>la.png</IMAGE>
+		<DESCRIPTION>App Skill is the software contest
+under the umbrella of Infotsav 2012. It is one of the most accolades winning technical
+event of the festival providing a platform to judge the feasibility and usefulness of
+software. In fact it's an opportunity for all those who have the ability to carve their
+stimulating ideas into creating path-breaking software</DESCRIPTION>	
+		<RULES>appskill will comprise of two major categories-
+.	Web/Desktop (Desknet)
+.	Mobile (Andrios)
+"A thumping amount of INR 15,000 is waiting for you. Come and grab it all."
+Team size: 2
+</RULES>
+		<TIMELINE>Phase 1:
+The participants are required to submit SRS & Screenshots of their application.
+Submission Deadline: 20 October, 2012
+Declaration of Shortlisted participants for Final Round: 25, October, 2012
+Phase 2:
+The participants have to present their final Software during Infotsav 2012 at IIITM Gwalior.
+</TIMELINE>
+		<DOWNLOADS></DOWNLOADS>
+		<CONTACTS>&lt;h4&gt;Kunal Gupta&lt;/h4&gt;
+                                                    &lt;p&gt;
+                                                        &lt;span
+class="phone"&gt;Phone: &lt;/span&gt;&lt;br/&gt;
+                                                        &lt;span
+class="phone"&gt;E-mail: &lt;/span&gt;&lt;a href="
+https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to="
+class="color1" target="_blank"&gt;&lt;/a&gt;
+
+                                                    &lt;/p&gt;
+                                                    &lt;br/&gt;
+&lt;h4&gt;Kapil Dhakad&lt;/h4&gt;
+                                                    &lt;p&gt;
+                                                        &lt;span
+class="phone"&gt;Phone: &lt;/span&gt;&lt;br/&gt;
+                                                        &lt;span
+class="phone"&gt;E-mail: &lt;/span&gt;&lt;a href="
+https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to="
+class="color1" target="_blank"&gt;&lt;/a&gt;
+
+                                                    &lt;/p&gt;
+                                                    &lt;br/&gt;
+&lt;h4&gt;Priyanka Agarwal&lt;/h4&gt;
+                                                    &lt;p&gt;
+                                                        &lt;span
+class="phone"&gt;Phone: &lt;/span&gt;&lt;br/&gt;
+                                                        &lt;span
+class="phone"&gt;E-mail: &lt;/span&gt;&lt;a href="
+https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to="
+class="color1" target="_blank"&gt;&lt;/a&gt;
+
+                                                    &lt;/p&gt;
+                                                    &lt;br/&gt;
+			</CONTACTS>
+		<UPDATES></UPDATES>
+	</EVENT>
+	<EVENT>	
+		<ID>4</ID>	
+		<TITLE>Web Mania</TITLE>
+		<TAGLINE>Web Designing Contest</TAGLINE>
+		<IMAGE>web.png</IMAGE>
+		<DESCRIPTION>Information attracts attention if it is well presented with a good layout.
+One of the finest way of expressing thoughts and information in front of the world is
+through the web. It is the designing of these web pages that would attract many people to
+read the information.&lt;br/&gt;With the event web mania we bring forward a chance for you
+to try your imagination and try your hands in the fascinating field of web designing. Try
+to be articulate in whatever you do .Do it fast and do it perfectly. Be a professional
+designer, know the psychology of color So, grab this opportunity with both your hands
+and test your skills @ Web Mania</DESCRIPTION>	
+		<RULES>.	Team size is at most 3 members.
+.	The event will be conducted in two phases.
+.	Phase-1:The participants are required to mail a web-site prepared by them on the given topics only.
+.	Phase-2:It will be an on-campus round. The best 10 teams of Phase-1 have to prepare a website on the given case provided to them during Infotsav'12.
+.	Students pursuing graduation and post-graduation in any Indian university are eligible.
+.	Any team found having fake information regarding qualification criteria or profile information will be immediately disqualified.
+.	The participants are not allowed to use CMS such as Drupal or Joomla. 
+.	The contestants are requested to strictly adhere to the deadlines. 
+.	The decision of the judges and organizers will be final. No queries in this regard will be entertained.
+.	Evaluation Criteria:
+o	Design 
+o	Content
+o	Innovation
+</RULES>
+		<TIMELINE>Phase - 1
+1. Topics will be uploaded on:		21stSeptember 2012
+2. Start of Round 1:    			21stSeptember 2012
+3. Deadline for Submission: 		10th October 2012
+4. Declaration of Results: 		14thOctober 2012
+
+Phase- 2
+
+Details will be uploaded soon. 
+</TIMELINE>
+		<DOWNLOADS>To be uploaded soon</DOWNLOADS>
+		<CONTACTS>&lt;h4&gt;Ankur Mudgal&lt;/h4&gt;
+                                                    &lt;p&gt;
+                                                        &lt;span
+class="phone"&gt;Phone: &lt;/span&gt;+91 9617540863&lt;br/&gt;
+                                                        &lt;span
+class="phone"&gt;E-mail: &lt;/span&gt;&lt;a href="
+https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to=.mudgal@infotsav.org"
+class="color1" target="_blank"&gt;.mudgal@infotsav.org&lt;/a&gt;
+
+                                                    &lt;/p&gt;
+                                                    &lt;br/&gt;
+&lt;h4&gt;Nikunj Sharma&lt;/h4&gt;
+                                                    &lt;p&gt;
+                                                        &lt;span
+class="phone"&gt;Phone: &lt;/span&gt;+91 7879414010&lt;br/&gt;
+                                                        &lt;span
+class="phone"&gt;E-mail: &lt;/span&gt;&lt;a href="
+https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to=nikunj.sharma@infotsav.org"
+class="color1" target="_blank"&gt;nikunj.sharma@infotsav.org&lt;/a&gt;
+
+                                                    &lt;/p&gt;
+                                                    &lt;br/&gt;
+&lt;h4&gt;Deepesh Dagar&lt;/h4&gt;
+                                                    &lt;p&gt;
+                                                        &lt;span
+class="phone"&gt;Phone: &lt;/span&gt;+91 7879341036&lt;br/&gt;
+                                                        &lt;span
+class="phone"&gt;E-mail: &lt;/span&gt;&lt;a href="
+https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to=deepesh.dagar@infotsav.org"
+class="color1" target="_blank"&gt;deepesh.dagar@infotsav.org&lt;/a&gt;
+
+                                                    &lt;/p&gt;
+                                                    &lt;br/&gt;
+		</CONTACTS>
+		<UPDATES>To be uploaded soon</UPDATES>
+	</EVENT>
+	<EVENT>	
+		<ID>5</ID>	
+		<TITLE>Witch Hunt</TITLE>
+		<TAGLINE>Debugging Contest</TAGLINE>
+		<IMAGE>witch.png</IMAGE>
+		<DESCRIPTION>Witch hunt, the debugging contest is not only about programming talent but also about applying the sheer knowledge to rectify errors.The challenge tests a programmer's ability to understand and respond to dissimilar codes. The art of rectification / debugging is difficult than conventional programming because it's not about what you know, it's about how much you know and how you apply those cognitive ideas to recognize errors and act upon them. The event tests the programmer in areas of speed, intellect and understanding. A programmer stands nowhere if takes ages to understand and device an algorithm, hence it requires to comply!
+The ability to perceive the programming style different from one's own takes some doing and if you are up against the challenge, better get started by becoming a part of Witch Hunt.
+
+</DESCRIPTION>	
+		<RULES>1.  Maximum Team size is 2.
+2. No late submissions will be entertained. (unless the time limit is extended).
+3. You aren't allowed to skip a question and return to it later.
+4. The Event is divided in two Phases
+      Phase I - Preliminary Phase (Online)
+      Phase II - Main Phase ( At ABV-IIITM, Gwalior Campus) 
+5. First Phase will consist of three levels:
+ First level will consist of multiple choice questions (only one correct) with negative (-) marking. 
+Second level will consist of multiple choice questions (one or more than one correct) with no negative (-) marking.
+Third level will consist of submit type questions with no negative (-) marking. 
+6. Number of questions & duration will be disclosed at the time of contest.
+7. Any team which attempts to hack/deliberately crash the judging system will be immediately disqualified. 
+
+8. The decision of the organizers in declaring the results will be final. No queries in this regard will be entertained.
+</RULES>
+		<TIMELINE>Preliminary Round:	3rd Nov'12
+Result Declaration:	5th Nov'12
+Main Round:		10th Nov'12
+</TIMELINE>
+		<DOWNLOADS>To be uploaded soon</DOWNLOADS>
+		<CONTACTS>&lt;h4&gt;Pranshu Agrawal&lt;/h4&gt;
+                                                    &lt;p&gt;
+                                                        &lt;span
+class="phone"&gt;Phone: &lt;/span&gt;+91 9479810518&lt;br/&gt;
+                                                        &lt;span
+class="phone"&gt;E-mail: &lt;/span&gt;&lt;a href="
+https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to=pranshu.agrawal@infotsav.org"
+class="color1" target="_blank"&gt;pranshu.agrawal@infotsav.org&lt;/a&gt;
+
+                                                    &lt;/p&gt;
+                                                    &lt;br/&gt;
+&lt;h4&gt;Vikas Mittal&lt;/h4&gt;
+                                                    &lt;p&gt;
+                                                        &lt;span
+class="phone"&gt;Phone: &lt;/span&gt;+91 9669839980&lt;br/&gt;
+                                                        &lt;span
+class="phone"&gt;E-mail: &lt;/span&gt;&lt;a href="
+https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to=vikas.mittal@infotsav.org"
+class="color1" target="_blank"&gt;vikas.mittal@infotsav.org&lt;/a&gt;
+
+                                                    &lt;/p&gt;
+                                                    &lt;br/&gt;
+&lt;h4&gt;Archie Jain&lt;/h4&gt;
+                                                    &lt;p&gt;
+                                                        &lt;span
+class="phone"&gt;Phone: &lt;/span&gt;+91 7879337979&lt;br/&gt;
+                                                        &lt;span
+class="phone"&gt;E-mail: &lt;/span&gt;&lt;a href="
+https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to=archie.jain@infotsav.org"
+class="color1" target="_blank"&gt;archie.jain@infotsav.org&lt;/a&gt;
+
+                                                    &lt;/p&gt;
+                                                    &lt;br/&gt;
+</CONTACTS>
+		<UPDATES>To be uploaded soon</UPDATES>
+	</EVENT>
+	<EVENT>	
+		<ID>6</ID>	
+		<TITLE>Analyst</TITLE>
+		<TAGLINE>Case Study Competition</TAGLINE>
+		<IMAGE>analyst.png</IMAGE>
+		<DESCRIPTION>Analyst-The Case Study Event is all about
+judging your intellect, managerial skills and ability to craft sustainable solutions to
+problems that organizations face today. If you can strain you nerve and sinew, and come
+up with solutions that are practical and implementable, Analyst has a place for you.
+Challenging live cases from some great ventures await your sight, who knows... may be
+you can make a difference! Analyst this year comes with interesting cases, mindboggling
+reasoning and some big people to judge your acumen and innovation. Come
+join those who wish to provide street-smart, real-time feasible solutions and to prove
+themselves a true Analyst.</DESCRIPTION>	
+		<RULES>Team size: 4 members
+Presentation should be given in English.
+The winners will be announced on the basis of presentation and the final document submitted.
+</RULES>
+		<TIMELINE>To be uploaded soon</TIMELINE>
+		<DOWNLOADS>To be uploaded soon</DOWNLOADS>
+		<CONTACTS>&lt;h4&gt;.	Dheeraj Purohit &lt;/h4&gt;
+                                                    &lt;p&gt;
+                                                        &lt;span
+class="phone"&gt;Phone: &lt;/span&gt;+91 8989283394&lt;br/&gt;
+                                                        &lt;span
+class="phone"&gt;E-mail: &lt;/span&gt;&lt;a href="
+https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to="
+class="color1" target="_blank"&gt;&lt;/a&gt;
+
+                                                    &lt;/p&gt;
+                                                    &lt;br/&gt;
+&lt;h4&gt;..	Maryam Dairkee &lt;/h4&gt;
+&lt;p&gt;
+&lt;span
+class="phone"&gt;Phone: &lt;/span&gt;+91 9425756433&lt;br/&gt;
+                                                        &lt;span
+class="phone"&gt;E-mail: &lt;/span&gt;&lt;a href="
+https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to="
+class="color1" target="_blank"&gt;&lt;/a&gt;
+
+                                                    &lt;/p&gt;
+                                                    &lt;br/&gt;
+													
+             
+			 &lt;h4&gt;.Mohini Gupta  &lt;/h4&gt;
+                                                    &lt;p&gt;
+                                                        &lt;span
+class="phone"&gt;Phone: &lt;/span&gt;+91 9926330688&lt;br/&gt;
+                                                        &lt;span
+class="phone"&gt;E-mail: &lt;/span&gt;&lt;a href="
+https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to="
+class="color1" target="_blank"&gt;&lt;/a&gt;
+
+                                                    &lt;/p&gt;
+                                                    &lt;br/&gt;</CONTACTS>
+		<UPDATES>To be uploaded soon</UPDATES>
+	</EVENT>
+	<EVENT>	
+		<ID>7</ID>	
+		<TITLE>Brouhaha</TITLE>
+		<TAGLINE>Advertising Competition</TAGLINE>
+		<IMAGE>brouhaha.png</IMAGE>
+		<DESCRIPTION>Brouhaha is the advertising contest that is
+held under Infotsav. It is a noisy clamorous response to a stimulus, produced by a crowd. 
+It can also refer to the reaction expressed over a period of time to an event.&lt;p&gt;Advertising is a form of communication that
+typically attempts to persuade potential customers to purchase or to consume more of a
+particular brand of product or service. Advertisements are designed to generate increased
+consumption of those products and services through the creation and reinforcement of
+"brand image" and "brand loyalty". Every major medium is used to deliver these
+messages, including television, radio, cinema, magazines, newspapers, video games, the
+Internet and billboards.&lt;/p&gt;</DESCRIPTION>	
+		<RULES>.	The maximum size of a team is three.
+.	Team members can be from different colleges but pursuing their Bachelor's degree or Master's degree from a recognized college.
+.	The number of teams that would be shortlisted for second and third phases will depend on the number of teams in the first phase.
+.	The logos provided are to be used in every advertisement. 
+.	Two print advertisements, one audio advertisement and one video advertisement(optional) should be submitted. 
+.	The short listed teams from Phase 1 will be presenting their ads in Phase 2.
+.	While preparing the advertisement the use of the name of rival companies is prohibited.
+.	The print advertisements should be targeting newspapers and magazines. 
+.	The video advertisement should not be more than 40 seconds long and should be in .mpg, .avi or .flv format.
+.	In Video advertisement, flash presentation is also allowed.
+.	The audio advertisement should not be more than 20 seconds long and should be in .mp3 or .wmv format.
+.	Advertisements will be judged on the basis of their originality, design and tagline/punch line/caption used.
+.	Legality of the advertisements is foremost priority.  
+.	The language HINDI is also allowed but can be used only in video and audio advertisement.
+.	Presentation should be in ENGLISH only.
+.	The participants are required to send the soft copy of their entry to the mail id brouhaha@infotsav.org.
+
+?	A document providing the name of the team, members of the team, name of the institute, e-mail addresses and contact numbers is to be submitted along with the advertisements.
+</RULES>
+		<TIMELINE>To be uploaded soon</TIMELINE>
+		<DOWNLOADS>To be uploaded soon</DOWNLOADS>
+		<CONTACTS>&lt;h4&gt;Mukul Kumar&lt;/h4&gt;
+                                                    &lt;p&gt;
+                                                        &lt;span
+class="phone"&gt;Phone: &lt;/span&gt;+91 9098530117&lt;br/&gt;
+                                                        &lt;span
+class="phone"&gt;E-mail: &lt;/span&gt;&lt;a href="
+https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to=mukul.kumar@infotsav.org"
+class="color1" target="_blank"&gt;mukul.kumar@infotsav.org&lt;/a&gt;
+
+                                                    &lt;/p&gt;
+                                                    &lt;br/&gt;
+&lt;h4&gt;.	Divya Jain&lt;/h4&gt;
+&lt;p&gt;
+&lt;span
+class="phone"&gt;Phone: &lt;/span&gt;+91 7828309266&lt;br/&gt;
+                                                        &lt;span
+class="phone"&gt;E-mail: &lt;/span&gt;&lt;a href="
+https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to=divya.jain@infotsav.org"
+class="color1" target="_blank"&gt;divya.jain@infotsav.org&lt;/a&gt;
+
+                                                    &lt;/p&gt;
+                                                    &lt;br/&gt;
+													
+             &lt;h4&gt;.	Kajol Nigam&lt;/h4&gt;
+                                                    &lt;p&gt;
+                                                        &lt;span
+class="phone"&gt;Phone: &lt;/span&gt;+91 8989417346&lt;br/&gt;
+                                                        &lt;span
+class="phone"&gt;E-mail: &lt;/span&gt;&lt;a href="
+https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to=kajol.nigam@infotsav.org"
+class="color1" target="_blank"&gt;kajol.nigam@infotsav.org&lt;/a&gt;
+
+                                                    &lt;/p&gt;
+                                                    &lt;br/&gt;
+&lt;h4&gt;..	Shubham Singh&lt;/h4&gt;
+&lt;p&gt;
+&lt;span
+class="phone"&gt;Phone: &lt;/span&gt;+91 9009329575&lt;br/&gt;
+                                                        &lt;span
+class="phone"&gt;E-mail: &lt;/span&gt;&lt;a href="
+https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to=shubham.singh@infotsav.org"
+class="color1" target="_blank"&gt;shubham.singh@infotsav.org&lt;/a&gt;
+
+                                                    &lt;/p&gt;
+                                                    &lt;br/&gt;
+													
+             </CONTACTS>
+		<UPDATES>To be uploaded soon</UPDATES>
+	</EVENT>
+	<EVENT>	
+		<ID>8</ID>	
+		<TITLE>Pinnacle</TITLE>
+		<TAGLINE>B-Plan Contest</TAGLINE>
+		<IMAGE></IMAGE>
+		<DESCRIPTION>1st phase: Executive summary Submission: 18th September - 8 October: Results on 12 October
+2nd phase: Business Plan submission + Mentorship: 12th October to 20th October, results on 22nd October
+3rd phase: Final presentation and a work shop at the campus. Workshop on 1st  day and presentation on the final day of Infotsav.
+</DESCRIPTION>	
+		<RULES>GENERAL RULES
+The B-plans will be evaluated based on following criteria's:-
+. The clarity and potential of the market opportunity. 
+. Innovativeness of business concept. 
+. Feasibility of the plan. 
+. The overall evaluation of potential reward to risk. 
+. Marketing Strategy. 
+. Financial Analysis. 
+. Sustainability & Scalability of Business Model. 
+. Quality of presentation.
+</RULES>
+		<TIMELINE>1st phase: Executive summary Submission: 18th September - 8 October: Results on 12 October
+2nd phase: Business Plan submission + Mentorship: 12th October to 20th October, results on 22nd October
+3rd phase: Final presentation and a work shop at the campus. Workshop on 1st  day and presentation on the final day of Infotsav.
+</TIMELINE>
+		<DOWNLOADS>To be uploaded soon</DOWNLOADS>
+		<CONTACTS>&lt;h4&gt;ANURAG SAI&lt;/h4&gt;
+                                                    &lt;p&gt;
+                                                        &lt;span
+class="phone"&gt;Phone:&lt;/span&gt;8989103467&lt;br/&gt;
+                                                        &lt;span
+class="phone"&gt;E-mail: &lt;/span&gt;&lt;a href="
+https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to=anuragsai123@gmail.com"
+class="color1" target="_blank"&gt;anuragsai123@gmail.com&lt;/a&gt;
+
+                                                    &lt;/p&gt;
+                                                    &lt;br/&gt;
+&lt;h4&gt;UTKARSH SONI &lt;/h4&gt;
+&lt;p&gt;
+&lt;span
+class="phone"&gt;Phone:&lt;/span&gt;9425603610&lt;br/&gt;
+                                                        &lt;span
+class="phone"&gt;E-mail: &lt;/span&gt;&lt;a href="
+https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to=utkarsh.soni2@gmail.com"
+class="color1" target="_blank"&gt;utkarsh.soni2@gmail.com&lt;/a&gt;
+
+                                                    &lt;/p&gt;
+                                                    &lt;br/&gt;
+&lt;h4&gt;LAXMI NARAYAN&lt;/h4&gt;
+                                                    &lt;p&gt;
+                                                        &lt;span
+class="phone"&gt;Phone: &lt;/span&gt7898830809;&lt;br/&gt;
+                                                        &lt;span
+class="phone"&gt;E-mail: &lt;/span&gt;&lt;a href="
+https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to=laxmmicool.narayan@gmail.com"
+class="color1" target="_blank"&gt;laxmmicool.narayan@gmail.com&lt;/a&gt;
+
+                                                    &lt;/p&gt;
+                                                    &lt;br/&gt;
+&lt;h4&gt;SHILPI SINGH&lt;/h4&gt;
+                                                    &lt;p&gt;
+                                                        &lt;span
+class="phone"&gt;Phone: &lt;/span&gt;+91-&lt;br/&gt;
+                                                        &lt;span
+class="phone"&gt;E-mail: &lt;/span&gt;&lt;a href="
+https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to=shilpi.singh33391@gmail.com"
+class="color1" target="_blank"&gt;shilpi.singh33391@gmail.com&lt;/a&gt;
+
+                                                    &lt;/p&gt;
+                                                    &lt;br/&gt;
+&lt;h4&gt;ANJALI NAYAK&lt;/h4&gt;
+                                                    &lt;p&gt;
+                                                        &lt;span
+class="phone"&gt;Phone: &lt;/span&gt;+91-8989875248&lt;br/&gt;
+                                                        &lt;span
+class="phone"&gt;E-mail: &lt;/span&gt;&lt;a href="
+https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to=anjalinayak.nayak74@gmail.com"
+class="color1" target="_blank"&gt;anjalinayak.nayak74@gmail.com&lt;/a&gt;
+
+                                                    &lt;/p&gt;
+                                                    &lt;br/&gt;													</CONTACTS>
+		<UPDATES>To be uploaded soon</UPDATES>
+	</EVENT>
+		<ID>9</ID>	
+		<TITLE>Tycoon</TITLE>
+		<TAGLINE>Best manager contest</TAGLINE>
+		<IMAGE>tycoon.png</IMAGE>
+		<DESCRIPTION>Are you outstanding from the crowd? But we
+need here someone who can lead them. Competing increases you incrementally but
+Co-operating does it exponentially. The stage is set for you. "Come, participate with
+hundreds to stand against millions".Tycoon is the Best manager contest of Infotsav.
+It is a quest to determine the person who is most knowledgeable of the who's who of the
+business fraternity. The contest is an individual one to make the competition more cut
+throat and fierce. Add to it the elimination at each level, thus making the competition all
+the more ruthless. But ultimately who so ever comes out as the winner gets to taste the
+forbidden fruit. He/She is accorded the title of the tycoon.</DESCRIPTION>	
+		<RULES>Round 1: Online quiz containing small puzzles and brief descriptive questions. Those qualified shall proceed to round 2.
+  OR
+Offline quiz for internal and on the spot participants.
+Round 2:
+Group discussion: Shortlisted candidates participate in GD round and selected candidates proceed.
+Round 3:
+Short b-plan contest: Each finalist gets to present a b-plan in stipulated in time. 
+</RULES>
+		<TIMELINE>To be uploaded soon</TIMELINE>
+		<DOWNLOADS>To be uploaded soon</DOWNLOADS>
+		<CONTACTS>To be uploaded soon</CONTACTS>
+		<UPDATES>To be uploaded soon</UPDATES>
+	</EVENT>
+	<EVENT>	
+		<ID>10</ID>	
+		<TITLE>Forex</TITLE>
+		<TAGLINE>Foreign Exchange Market</TAGLINE>
+		<IMAGE>forex.png</IMAGE>
+		<DESCRIPTION>Forex is the simulation of by far the largest
+financial market in the world that includes trading between central banks, currency
+speculators, multinational corporations, governments and other financial institutions.
+This game provides a platform where the players can convert virtual money from one
+currency to another. The player who has the maximum balance wins. The Foreign
+Exchange market exists whenever one currency is traded for another. It gives a real time
+experience of the "foreign exchange" provided with virtual money and real time data to
+get the invaluable hand on experience.</DESCRIPTION>	
+		<RULES>.	The game will be played for a period of about 2 weeks.
+.	Anyone with a correct user id and password can access the pages and do the trading.
+.	A participant can make his/her another account only if his earlier account is freezed. In case it is found that a participant has created more than one user id, he/she shall be disqualified. In case of any discrepancy, organizers  decisions will be final.
+.	There is only one round .
+.	In this round the participants have to trade with the virtual amount of $ one lakh
+.	In case of tie, the judge's decision will be final.
+.	Rank will be calculated after every hour.
+.	The top ten players (as according to the rank) will be scrutinized for any fraud or fake transactions. The Final Winners shall be then intimated through mail and a list will be put up on the website.
+</RULES>
+		<TIMELINE>To be uploaded soon</TIMELINE>
+		<DOWNLOADS>To be uploaded soon</DOWNLOADS>
+		<CONTACTS>&lt;h4&gt;Prashant Gupta&lt;/h4&gt;
+                                                    &lt;p&gt;
+                                                        &lt;span
+class="phone"&gt;Phone: &lt;/span&gt;+91 9770272350&lt;br/&gt;
+                                                        &lt;span
+class="phone"&gt;E-mail: &lt;/span&gt;&lt;a href="
+https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to=prashant.gupta@infotsav.org"
+class="color1" target="_blank"&gt;prashant.gupta@infotsav.org&lt;/a&gt;
+
+                                                    &lt;/p&gt;
+                                                    &lt;br/&gt;
+													&lt;h4&gt;Saurabh Maurya&lt;/h4&gt;
+                                                    &lt;p&gt;
+                                                        &lt;span
+class="phone"&gt;Phone: &lt;/span&gt;+91 8989923577&lt;br/&gt;
+                                                        &lt;span
+class="phone"&gt;E-mail: &lt;/span&gt;&lt;a href="
+https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to=saurabh.maurya@infotsav.org"
+class="color1" target="_blank"&gt;saurabh.maurya@infotsav.org&lt;/a&gt;
+
+                                                    &lt;/p&gt;
+                                                    &lt;br/&gt;</CONTACTS>
+		<UPDATES>To be uploaded soon</UPDATES>
+	</EVENT>
+	<EVENT>	
+		<ID>11</ID>	
+		<TITLE>Stock Sutra</TITLE>
+		<TAGLINE>Enquity Research Contest</TAGLINE>
+		<IMAGE>stock.png</IMAGE>
+		<DESCRIPTION>The game is a test of analyzing and
+diagnosing powers of participants as some shares tumble and some soar at the stock
+market during the contest period. The participants are free to trade during market open
+and close hours. At the end of three weeks, the top 10 participants with the highest net
+worth are invited to institute campus to justify their choice of stocks.
+An event in which the investment acumen of the contestants is tested where the
+contestants have to invest in stocks and have to explain their investment strategy. In the
+present accelerating growth period of the Indian economy, banks and other financial
+institutions are in acute need of good analytical minds for their investment decisions.</DESCRIPTION>	
+		<RULES>.	Event will be played online for about 2 weeks.
+.	The   participants   registering   are  provided   an  initial amount of Rs1,00,000  and  required  to  trade  in  stocks  from  the  NIFTY  index  and NIFTY
+.	JUNIOR index:- The game is a test of analyzing and diagnosing powers of participants as  some   shares  tumble   and   some   soar  at the  stock  market during
+.	The Contest period:- The  participants  are free to  trade  during market  open  and  close  hours.  At  the  end  of  the  contest,the  participant  with highest  net worth is thewinner.
+.	The decision of Judges and organizing team would be final and binding.
+.	The    Players  should   strictly  adhere   to deadlines   mentioned     in the  brochure. 
+.	Players   are  requested    to  avail  accommodation      by  contacting   the hospitality team of Infotsav, 2012.
+.	 Any     immediate     changes    in   the   deadlines    due   to   unforeseen circumstances     would     be   communicated       through    our    website-      www.infotsav.org
+</RULES>
+		<TIMELINE>From 28 Oct 2012-  8 Nov 2012</TIMELINE>
+		<DOWNLOADS>To be uploaded soon</DOWNLOADS>
+		<CONTACTS>&lt;h4&gt;Siddharth Bhatia&lt;/h4&gt;
+                                                    &lt;p&gt;
+                                                        &lt;span
+class="phone"&gt;Phone: &lt;/span&gt;+91 7898042636&lt;br/&gt;
+                                                        &lt;span
+class="phone"&gt;E-mail: &lt;/span&gt;&lt;a href="
+https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to="
+class="color1" target="_blank"&gt;&lt;/a&gt;
+
+                                                    &lt;/p&gt;
+                                                    &lt;br/&gt;
+													&lt;h4&gt;Neetesh Kumar&lt;/h4&gt;
+                                                    &lt;p&gt;
+                                                        &lt;span
+class="phone"&gt;Phone: &lt;/span&gt;+91 7898281444&lt;br/&gt;
+                                                        &lt;span
+class="phone"&gt;E-mail: &lt;/span&gt;&lt;a href="
+https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to="
+class="color1" target="_blank"&gt;&lt;/a&gt;
+
+                                                    &lt;/p&gt;
+                                                    &lt;br/&gt;</CONTACTS>
+		<UPDATES>To be uploaded soon</UPDATES>
+	</EVENT>
+	<EVENT>	
+		<ID>12</ID>	
+		<TITLE>Trove Trace</TITLE>
+		<TAGLINE>Online Treasure Hunt</TAGLINE>
+		<IMAGE>trove.png</IMAGE>
+		<DESCRIPTION>Does searching for a hidden treasure
+fascinate you? Are you enthralled by clues and puzzles and want to step into the shoes of
+the master detective Holmes?? Then look no further, Trove Trace is where you should be.
+There is nothing like a good riddle or a clue to spice up your hunt.
+All the techno-freaks and pirates of the virtual world out there, trove trace is back - with
+murkier corners, crazier questions, more twists and turns to blow your brains out, and a
+monstrous amount of fun</DESCRIPTION>	
+		<RULES>To be uploaded soon</RULES>
+		<TIMELINE>To be uploaded soon</TIMELINE>
+		<DOWNLOADS>To be uploaded soon</DOWNLOADS>
+		<CONTACTS>To be uploaded soon</CONTACTS>
+		<UPDATES>To be uploaded soon</UPDATES>
+	</EVENT>
+	<EVENT>	
+		<ID>13</ID>	
+		<TITLE>Job Bureau</TITLE>
+		<TAGLINE>Virtual Job</TAGLINE>
+		<IMAGE>job.png</IMAGE>
+		<DESCRIPTION>Get to use the world's latest technologies and software.
+It's time for you to experience the professional serene and achieve what you desire and are really capable of.
+Infotsav gives you a chance to get placed before the actual campus drive in a virtual world where you learn to be an efficient project leader and a skilled coder. The simulation takes you into the flock of assignments where you move ahead by gaining experience and money. The game checks your skills at choosing the right project at the right time, a single wrong move could forestall your winning chances.
+</DESCRIPTION>	
+		<RULES>To be uploaded soon</RULES>
+		<TIMELINE>To be uploaded soon</TIMELINE>
+		<DOWNLOADS>To be uploaded soon</DOWNLOADS>
+		<CONTACTS>&lt;h4&gt;Akashdeep Saluja&lt;/h4&gt;
+                                                    &lt;p&gt;
+                                                        &lt;span
+class="phone"&gt;Phone: &lt;/span&gt;+91 8989931179&lt;br/&gt;
+                                                        &lt;span
+class="phone"&gt;E-mail: &lt;/span&gt;&lt;a href="
+https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to="
+class="color1" target="_blank"&gt;&lt;/a&gt;
+
+                                                    &lt;/p&gt;
+                                                    &lt;br/&gt;
+													&lt;h4&gt;Priyam Bajaj&lt;/h4&gt;
+                                                    &lt;p&gt;
+                                                        &lt;span
+class="phone"&gt;Phone: &lt;/span&gt;+91 8827448056&lt;br/&gt;
+                                                        &lt;span
+class="phone"&gt;E-mail: &lt;/span&gt;&lt;a href="
+https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to="
+class="color1" target="_blank"&gt;&lt;/a&gt;
+
+                                                    &lt;/p&gt;
+                                                    &lt;br/&gt;</CONTACTS>
+		<UPDATES>To be uploaded soon</UPDATES>
+	</EVENT>
+	<EVENT>	
+		<ID>14</ID>	
+		<TITLE>Dus Ka Dum</TITLE>
+		<TAGLINE></TAGLINE>
+		<IMAGE></IMAGE>
+		<DESCRIPTION></DESCRIPTION>	
+		<RULES>To be uploaded soon</RULES>
+		<TIMELINE>To be uploaded soon</TIMELINE>
+		<DOWNLOADS>To be uploaded soon</DOWNLOADS>
+		<CONTACTS>To be uploaded soon</CONTACTS>
+		<UPDATES>To be uploaded soon</UPDATES>
+	</EVENT>
+	<EVENT>	
+		<ID>15</ID>	
+		<TITLE>Enigma</TITLE>
+		<TAGLINE>IT Quiz</TAGLINE>
+		<IMAGE>enigma.png</IMAGE>
+		<DESCRIPTION>A quiz is usually a form of a student assessment, but  has fewer questions of lesser difficulty and requires less time for completion than a test. It is to celebrate this spirit that Infotsav conducts Enigma.
+Enigma  will have a preliminary round of offline quiz and only the top scoring teams will compete in the mains, against the best.  So brace up yourself to be a part of techno- managerial quiz contest to compete with the best brains of the youth. This is the war of grey cells. So let us watch who meets the target superbly! We need your cooperation to move ahead in taking it to another level and achieve unfathomable level of excellence and popularity.
+</DESCRIPTION>	
+		<RULES>?	The quiz will comprise of 2 levels - Prelims and Mains
+?	All participants must be bonafide students of an educational institution.
+?	Prelims :
+* For IIITM Students: will be held offline before the fest commence.
+* For Non-IIITM Students: will be held on the first day of infotsav.
+?	The top scoring teams will qualify mains to compete against the best. 
+?	Mains will be held at ABV-IIITM Campus.
+?	The participating teams must have strictly 3 members.
+?	The scoring pattern, number of questions etc. shall depend on the quiz master.
+</RULES>
+		<TIMELINE>To be uploaded soon</TIMELINE>
+		<DOWNLOADS>To be uploaded soon</DOWNLOADS>
+		<CONTACTS>&lt;h4&gt;Vinayak Meena&lt;/h4&gt;
+                                                    &lt;p&gt;
+                                                        &lt;span
+class="phone"&gt;Phone: &lt;/span&gt;+91 7879650966&lt;br/&gt;
+                                                        &lt;span
+class="phone"&gt;E-mail: &lt;/span&gt;&lt;a href="
+https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to="
+class="color1" target="_blank"&gt;&lt;/a&gt;
+
+                                                    &lt;/p&gt;
+                                                    &lt;br/&gt;
+&lt;h4&gt;Itisha Jain&lt;/h4&gt;
+                                                    &lt;p&gt;
+                                                        &lt;span
+class="phone"&gt;Phone: &lt;/span&gt;+91 7879749369&lt;br/&gt;
+                                                        &lt;span
+class="phone"&gt;E-mail: &lt;/span&gt;&lt;a href="
+https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to="
+class="color1" target="_blank"&gt;&lt;/a&gt;
+
+                                                    &lt;/p&gt;
+                                                    &lt;br/&gt;
+&lt;h4&gt;Divesh Burnwal&lt;/h4&gt;
+                                                    &lt;p&gt;
+                                                        &lt;span
+class="phone"&gt;Phone: &lt;/span&gt;+91 7879009450&lt;br/&gt;
+                                                        &lt;span
+class="phone"&gt;E-mail: &lt;/span&gt;&lt;a href="
+https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to="
+class="color1" target="_blank"&gt;&lt;/a&gt;
+
+                                                    &lt;/p&gt;
+                                                    &lt;br/&gt;
+		</CONTACTS>
+		<UPDATES>To be uploaded soon</UPDATES>
+	</EVENT><EVENT>	
+		<ID>16</ID>	
+		<TITLE>Chakravyuh</TITLE>
+		<TAGLINE>BITQUIZ</TAGLINE>
+		<IMAGE>chakra.png</IMAGE>
+		<DESCRIPTION>It's a quiz where you compete with others with
+your technological as well as management knowledge. Show the world that you know
+about what's happening in it and you are not just a book worm.</DESCRIPTION>	
+		<RULES>Round 1: 
+.	For IIITM students (Except IPG first yr): Round 1 is online which is conducted before Infotsav. There will be 120 questions which are to be solved in one hour. There will be 4 - 6 sets of questions. If the participation is greater than 100,then best 20% will be shortlisted else 20 students will be shortlisted for round 2.
+.	For IIITM students (first yr): Round 1 is offline which is  conducted before Infotsav. There will be 120 questions which are to be solved in one hour. There will be 2 - 3 sets of questions. 5 students will be shortlisted for round 2.
+.	For non- IIITM students: Round 1 is offline conducted on day1 of Infotsav. There will be 120 questions which are to be solved in one hour. There will be 2 - 3 sets of questions. 10% of the participants will be shortlisted for round 2.(0r round 3)
+.	There is Negative marking
+Round 2 : (quiz)
+Round 2 will be conducted on Day2 of Infotsav. Participants are required to make a team of three members among themselves. 5 teams will be shortlisted to next round.
+Round 3: a : (Extempore/JAM)
+JAM will be conducted on final day of Infotsav. Out of 15 participants,5 participants will be shortlisted for next round.
+Round 3: b : (GD)
+GD will be conducted on final day of Infotsav. Out of 5 participants, one winner and one runner up will be selected.
+</RULES>
+		<TIMELINE>To be uploaded soon</TIMELINE>
+		<DOWNLOADS>To be uploaded soon</DOWNLOADS>
+		<CONTACTS>&lt;h4&gt;Annupriya&lt;/h4&gt;
+                                                    &lt;p&gt;
+                                                        &lt;span
+class="phone"&gt;Phone: &lt;/span&gt;&lt;br/&gt;
+                                                        &lt;span
+class="phone"&gt;E-mail: &lt;/span&gt;&lt;a href="
+https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to="
+class="color1" target="_blank"&gt;&lt;/a&gt;
+
+                                                    &lt;/p&gt;
+                                                    &lt;br/&gt;
+&lt;h4&gt;Sai Kumar&lt;/h4&gt;
+                                                    &lt;p&gt;
+                                                        &lt;span
+class="phone"&gt;Phone: &lt;/span&gt;&lt;br/&gt;
+                                                        &lt;span
+class="phone"&gt;E-mail: &lt;/span&gt;&lt;a href="
+https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to="
+class="color1" target="_blank"&gt;&lt;/a&gt;
+
+                                                    &lt;/p&gt;
+                                                    &lt;br/&gt;
+&lt;h4&gt;Prashant Gupta&lt;/h4&gt;
+                                                    &lt;p&gt;
+                                                        &lt;span
+class="phone"&gt;Phone: &lt;/span&gt;&lt;br/&gt;
+                                                        &lt;span
+class="phone"&gt;E-mail: &lt;/span&gt;&lt;a href="
+https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to="
+class="color1" target="_blank"&gt;&lt;/a&gt;
+
+                                                    &lt;/p&gt;
+                                                    &lt;br/&gt;</CONTACTS>
+		<UPDATES>To be uploaded soon</UPDATES>
+	</EVENT>
+	<EVENT>	
+				<ID>17</ID>	
+		<TITLE>Sameeksha</TITLE>
+		<TAGLINE>Paper Presentation Contest</TAGLINE>
+		<IMAGE>sameeksha.png</IMAGE>
+		<DESCRIPTION>The toughest job for mankind is to do the
+		job the easiest way and since ages man has been effortlessly trying to do the same.
+		Techno-management is the theme of Sameeksha-the annual national paper presentation
+		contest that stages brilliant ideas and innovations in the field of technology and
+		management and allows young researchers and students both at UG/PG level to bring
+		forth the novice ideas that they have worked upon.Sameeksha has been giving
+		great opportunities for exploring new dimensions of knowledge, understanding the needs
+		and identifying the best perspectives for the future. In our constant effort to make
+		Sameeksha stand away from the crowd of similar competitions we ensure that the papers
+		get evaluated by the most renowned and eminent scholars and well known figures from
+		the business industry thus highlighting those hidden aspects that can spur blunders.
+		</DESCRIPTION>	
+		<RULES>To be uploaded soon</RULES>
+		<TIMELINE>To be uploaded soon</TIMELINE>
+		<DOWNLOADS>To be uploaded soon</DOWNLOADS>
+		<CONTACTS>&lt;h4&gt;.Yogendra Singh  &lt;/h4&gt;
+                                                    &lt;p&gt;
+                                                        &lt;span
+class="phone"&gt;Phone: &lt;/span&gt;+91 7828316409&lt;br/&gt;
+                                                        &lt;span
+class="phone"&gt;E-mail: &lt;/span&gt;&lt;a href="
+https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to=yogendrasingh27021992@gmail.com"
+class="color1" target="_blank"&gt;yogendrasingh27021992@gmail.com&lt;/a&gt;
+
+                                                    &lt;/p&gt;
+                                                    &lt;br/&gt;
+&lt;h4&gt;..	Avneet Singh &lt;/h4&gt;
+&lt;p&gt;
+&lt;span
+class="phone"&gt;Phone: &lt;/span&gt;+91 8989923548&lt;br/&gt;
+                                                        &lt;span
+class="phone"&gt;E-mail: &lt;/span&gt;&lt;a href="
+https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to=avneetsingh114@gmail.com"
+class="color1" target="_blank"&gt;avneetsingh114@gmail.com&lt;/a&gt;
+
+                                                    &lt;/p&gt;
+                                                    &lt;br/&gt;
+													
+             
+			 &lt;h4&gt;.Manisha Kumari  &lt;/h4&gt;
+                                                    &lt;p&gt;
+                                                        &lt;span
+class="phone"&gt;Phone: &lt;/span&gt;+91 9893475071&lt;br/&gt;
+                                                        &lt;span
+class="phone"&gt;E-mail: &lt;/span&gt;&lt;a href="
+https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to=manishakmr946@gmail.com"
+class="color1" target="_blank"&gt;manishakmr946@gmail.com&lt;/a&gt;
+
+                                                    &lt;/p&gt;
+                                                    &lt;br/&gt;</CONTACTS>
+		<UPDATES>To be uploaded soon</UPDATES>
+	</EVENT>
+	<EVENT>	
+		<ID>18</ID>	
+		<TITLE>Gamiacs</TITLE>
+		<TAGLINE></TAGLINE>
+		<IMAGE>gamiacs.png</IMAGE>
+		<DESCRIPTION>The battle of the virtual world has
+		begun. Are you game? This Infotsav 12 the world will be rocked by the cyber warriors.
+		Gamiacs is back with a bang. And this time it's not only more competitive and tougher
+		but it has added an all new dimension in its already humungous artillery of
+		entertainment.This time round different games will be organized to bring out the
+		ultimate gamer who resides somewhere in you! So gear up, reload thy guns, sharpen you
+		knifes and prepare for the ultimate burnout.
+		</DESCRIPTION>	
+		<RULES>To be uploaded soon</RULES>
+		<TIMELINE>To be uploaded soon</TIMELINE>
+		<DOWNLOADS>To be uploaded soon</DOWNLOADS>
+		<CONTACTS>To be uploaded soon</CONTACTS>
+		<UPDATES>To be uploaded soon</UPDATES>
+	</EVENT>
+	<EVENT>
+			<ID>19</ID>	
+		<TITLE>Nutshell</TITLE>
+		<TAGLINE></TAGLINE>
+		<IMAGE>nutshell.png</IMAGE>
+		<DESCRIPTION>Linux is the most popular open source Operating System in the world. Because of its flexibility and awesomeness, it has been widely accepted for the use of power devices, ranging from Smart phones to servers, from Kindle to the Large Hydron Collider. 
+We are here to test how many students do know about Linux, which has recently emerged as a trend among the tech-freaks.
+So, get ready guys because this game is going to be fun and thrilling. You'll get what you'll expect the least. Hail Linux 
+Round:
+1st Round - MCQ on Linux (shortlist top 4 candidates)
+2nd Round - The candidates will be assigned a specific task to be completed on the Linux source code (Working on the actual system).
+
+		</DESCRIPTION>	
+		<RULES>.	There will be single participant. No team formation allowed.
+.	Participants found using any inappropriate means to get the answer will be straightaway disqualified.
+.	Use of internet is completely prohibited.
+</RULES>
+		<TIMELINE>To be uploaded soon</TIMELINE>
+		<DOWNLOADS>To be uploaded soon</DOWNLOADS>
+		<CONTACTS>&lt;h4&gt;Manuj Tewari &lt;/h4&gt;
+                                                    &lt;p&gt;
+                                                        &lt;span
+class="phone"&gt;Phone: &lt;/span&gt;+91-9425742031&lt;br/&gt;
+                                                        &lt;span
+class="phone"&gt;E-mail: &lt;/span&gt;&lt;a href="
+https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to="
+class="color1" target="_blank"&gt;&lt;/a&gt;
+
+                                                    &lt;/p&gt;
+                                                    &lt;br/&gt;
+&lt;h4&gt;Ashaya Shukla &lt;/h4&gt;
+&lt;p&gt;
+&lt;span
+class="phone"&gt;Phone: &lt;/span&gt;+91 9201055451&lt;br/&gt;
+                                                        &lt;span
+class="phone"&gt;E-mail: &lt;/span&gt;&lt;a href="
+https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to="
+class="color1" target="_blank"&gt;&lt;/a&gt;
+
+                                                    &lt;/p&gt;
+                                                    &lt;br/&gt;
+&lt;h4&gt;Ankit Yadav  &lt;/h4&gt;
+                                                    &lt;p&gt;
+                                                        &lt;span
+class="phone"&gt;Phone: &lt;/span&gt;+91--8878951021&lt;br/&gt;
+                                                        &lt;span
+class="phone"&gt;E-mail: &lt;/span&gt;&lt;a href="
+https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to="
+class="color1" target="_blank"&gt;&lt;/a&gt;
+
+                                                    &lt;/p&gt;
+                                                    &lt;br/&gt;
+&lt;h4&gt;Abhishek Yadav  &lt;/h4&gt;
+                                                    &lt;p&gt;
+                                                        &lt;span
+class="phone"&gt;Phone: &lt;/span&gt;+91-8817139436&lt;br/&gt;
+                                                        &lt;span
+class="phone"&gt;E-mail: &lt;/span&gt;&lt;a href="
+https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to="
+class="color1" target="_blank"&gt;&lt;/a&gt;
+
+                                                    &lt;/p&gt;
+                                                    &lt;br/&gt;</CONTACTS>
+		<UPDATES>To be uploaded soon</UPDATES>
+		</EVENT>
+<EVENT>	
+		<ID>20</ID>	
+		<TITLE>C Infotsav Quiz</TITLE>
+		<TAGLINE></TAGLINE>
+		<IMAGE>C Infotsav Quiz.png</IMAGE>
+		<DESCRIPTION>A quiz is a qualitative as well as a quantitative juncture of accessing your know-how. This is a fantastic mixture of the level of quality and knowledge, which along with checking your knowledge also tests your skills acquired. As far as it is concerned of  C and C++,on one side, where C is an imperative (procedural) language and like most imperative languages in the ALGOL tradition, C has facilities for structured programming and allows lexical variable scope and recursion, whereas on the other hand C++ is a statically typed, free-form, multi-paradigm, compiled, general-purpose programming language and is one of the most popular programming languages which is implemented on a wide variety of hardware and operating system platforms. For the same cause and with the same enthusiasm, we are here on the platform of Infotsav. Get yourself boost up, with the basics as well as the hidden lethal concepts of computer programming. And we guarantee, you are surely going to witness a new phase of concepts.</DESCRIPTION>	
+		<RULES>.	There will be two rounds, namely 'Dennis Ritchie' Round for the 1st and 'Bjarne Stroustrup' Round for the 2nd.
+.	The participating teams must comprise of at most 3 members in each team.
+.	Each member of the team must be regular bonafide student of any Institute. 
+.	For all the teams, the quiz will be held on the 2nd day of the Fest.
+.	The teams scoring maximum in the first round will qualify for the second and the final round.
+.	In any case, the whole rights are concerned with the organisers.
+</RULES>
+		<TIMELINE>To be uploaded soon</TIMELINE>
+		<DOWNLOADS>To be uploaded soon</DOWNLOADS>
+		<CONTACTS>&lt;h4&gt;Upendra kumar &lt;/h4&gt;
+                                                    &lt;p&gt;
+                                                        &lt;span
+class="phone"&gt;Phone: &lt;/span&gt;+91-9165071692&lt;br/&gt;
+                                                        &lt;span
+class="phone"&gt;E-mail: &lt;/span&gt;&lt;a href="
+https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to="
+class="color1" target="_blank"&gt;&lt;/a&gt;
+
+                                                    &lt;/p&gt;
+                                                    &lt;br/&gt;
+&lt;h4&gt;Partho Pratim Mandal &lt;/h4&gt;
+&lt;p&gt;
+&lt;span
+class="phone"&gt;Phone: &lt;/span&gt;+91 7879918878&lt;br/&gt;
+                                                        &lt;span
+class="phone"&gt;E-mail: &lt;/span&gt;&lt;a href="
+https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to="
+class="color1" target="_blank"&gt;&lt;/a&gt;
+
+                                                    &lt;/p&gt;
+                                                    &lt;br/&gt;
+&lt;h4&gt;Mayank Shivhare &lt;/h4&gt;
+                                                    &lt;p&gt;
+                                                        &lt;span
+class="phone"&gt;Phone: &lt;/span&gt;+91-8891650773&lt;br/&gt;
+                                                        &lt;span
+class="phone"&gt;E-mail: &lt;/span&gt;&lt;a href="
+https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to="
+class="color1" target="_blank"&gt;&lt;/a&gt;
+
+                                                    &lt;/p&gt;
+                                                    &lt;br/&gt;
+&lt;h4&gt;Ashutosh Jindal  &lt;/h4&gt;
+                                                    &lt;p&gt;
+                                                        &lt;span
+class="phone"&gt;Phone: &lt;/span&gt;+91-8989826239&lt;br/&gt;
+                                                        &lt;span
+class="phone"&gt;E-mail: &lt;/span&gt;&lt;a href="
+https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to="
+class="color1" target="_blank"&gt;&lt;/a&gt;
+
+                                                    &lt;/p&gt;
+                                                    &lt;br/&gt;</CONTACTS>
+		<UPDATES>To be uploaded soon</UPDATES>
+	</EVENT>		
+	
+	<EVENT>	
+		<ID>21</ID>	
+		<TITLE>Class-Byte</TITLE>
+		<TAGLINE></TAGLINE>
+		<IMAGE>Class-Byte.png</IMAGE>
+		<DESCRIPTION>Class-Byte is a JAVA Quiz. Java is definitely the most popular programming language. Its features made it different from other languages like platform independence.
+A breakneck questionnaire that will discover adroit  JAVA programmers. 
+Round 1: Quiz on paper.
+Round 2: Rapid Fire Round.
+Round 3: Compete with yourself or against time.
+
+		</DESCRIPTION>	
+		<RULES>The following is the schedule for Class-Byte!!!!
+Round 1(On Paper Quiz)
+i)	A Paper-Quiz will be conducted. 6 teams will be selected for the  next Round.
+
+Round 2
+i)	In Rapid fire round,back to back short questions will be asked to each team. 3 Teams will be selected for the final round.
+
+Round 3
+i)	In round 3,some questions will be asked with a timer running. The team that answers the questions in shortest time will be the winner.
+</RULES>
+		<TIMELINE>To be uploaded soon</TIMELINE>
+		<DOWNLOADS>To be uploaded soon</DOWNLOADS>
+		<CONTACTS>&lt;h4&gt;Vishwas Gupta &lt;/h4&gt;
+                                                    &lt;p&gt;
+                                                        &lt;span
+class="phone"&gt;Phone: &lt;/span&gt;+91-9479876386&lt;br/&gt;
+                                                        &lt;span
+class="phone"&gt;E-mail: &lt;/span&gt;&lt;a href="
+https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to="
+class="color1" target="_blank"&gt;&lt;/a&gt;
+
+                                                    &lt;/p&gt;
+                                                    &lt;br/&gt;
+&lt;h4&gt;Rajesh Raushan &lt;/h4&gt;
+&lt;p&gt;
+&lt;span
+class="phone"&gt;Phone: &lt;/span&gt;+91 8989923544&lt;br/&gt;
+                                                        &lt;span
+class="phone"&gt;E-mail: &lt;/span&gt;&lt;a href="
+https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to="
+class="color1" target="_blank"&gt;&lt;/a&gt;
+
+                                                    &lt;/p&gt;
+                                                    &lt;br/&gt;
+&lt;h4&gt;Deepank Seth&lt;/h4&gt;
+                                                    &lt;p&gt;
+                                                        &lt;span
+class="phone"&gt;Phone: &lt;/span&gt;+91-9893888613&lt;br/&gt;
+                                                        &lt;span
+class="phone"&gt;E-mail: &lt;/span&gt;&lt;a href="
+https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to="
+class="color1" target="_blank"&gt;&lt;/a&gt;
+
+                                                    &lt;/p&gt;
+                                                    &lt;br/&gt;
+&lt;h4&gt;  &lt;/h4&gt;
+                                                    &lt;p&gt;
+                                                        &lt;span
+class="phone"&gt;Phone: &lt;/span&gt;+91-&lt;br/&gt;
+                                                        &lt;span
+class="phone"&gt;E-mail: &lt;/span&gt;&lt;a href="
+https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&to="
+class="color1" target="_blank"&gt;&lt;/a&gt;
+
+                                                    &lt;/p&gt;
+                                                    &lt;br/&gt;</CONTACTS>
+		<UPDATES>To be uploaded soon</UPDATES>
+	</EVENT>
+</EVENTLIST>

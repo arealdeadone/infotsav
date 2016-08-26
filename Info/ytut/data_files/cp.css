@@ -1,0 +1,177 @@
+/**
+ * $Id: cp.css,v 1.17 2010/03/02 18:16:31 sbugaev Exp $
+ *
+ **/
+
+/* Main Table */
+.vt_cp .cp_main {
+	border-collapse:collapse;
+	color:black;
+ 	font-family: Verdana, Arial, Tahoma;
+	font-size: 10px;
+	font-weight: bold;
+}
+
+.vt_cp .cp_main, .vt_cp .cp_main td {
+	border:solid 1px #CCCFD6;
+}
+
+.vt_cp .cp_header{
+	background-image:url(/pairs/resources/design/images/header_bgr.jpg);
+	background-color:#fff;
+	background-repeat: repeat-x;
+	color:#666;
+	padding:3px 6px;
+}
+
+/* Pair column */
+.vt_cp .cp_pairs {
+	color:#294594;
+}
+
+/* Rates column */
+.vt_cp .pos {
+	color:#009600;
+	white-space: nowrap;
+}
+
+.vt_cp .neg {
+	color:#CC0000;
+	white-space: nowrap;
+}
+
+.vt_cp .cp_pairs, .vt_cp .pos, .vt_cp .neg {
+	font-size: 9px;
+	padding:2px 6px;
+	height: 17px;
+}
+
+.vt_cp .hint {
+/*	position:absolute;*/
+	display:none;
+	border:solid 1px #CCCFD6;
+	width:160px;
+	background-color:#FFF;
+	color:#666666;
+	font-family: Verdana;
+	font-size: 9px;
+	line-height: 14px;
+	margin:0;
+	padding:0;
+	/*padding:11px;*/
+}
+
+.vt_cp .hint_head {
+	text-align:center;
+	background-image:url(/pairs/resources/design/images/line_bgr.gif);
+	color:#CCCFD6;
+	font-size: 12px;
+	margin:0;
+	padding:5px;
+}
+
+.vt_cp .hint_text {
+	padding: 0px 11px 5px;
+}
+
+.vt_cp .cp_main img{
+	padding:0;
+	margin:0px 2px;
+}
+
+.vt_cp .close {
+	text-decoration:underline;
+	color:#00548E;
+	font-size: 9px;
+	cursor:pointer;
+	background-color:#FFF;
+	margin:0;
+	padding:0;
+}
+
+.vt_cp .close_t {
+	background-color:#FFF;
+	margin:0;
+	padding:0;
+}
+
+.vt_cp #cur_week {
+	cursor:pointer;
+}
+.vt_cp #cur_day {
+	cursor:pointer;
+}
+
+.isSafari .vt_cp .cp_main {
+   font-weight:normal;
+}
+
+.wrapper .text {
+	float: left; 
+}
+
+.wrapper {
+	overflow: hidden;
+	min-width: 62px;
+	_width: 62px;
+	height: 12px;
+}
+
+.isOpera .wrapper {
+ 	width: 62px;
+}
+
+.arrow {
+	position: relative;
+	left: 2px;
+	display: block;
+	float: left;
+	width: 7px;
+	height: 12px;
+	line-height: 0;
+}
+.pos .arrow {
+	top: -2px;
+}
+.neg .arrow {
+	top: 4px;
+}
+.pos .arrow div {
+	bottom: 1px;
+	_bottom: 0px;
+	background-color: #009600;
+}
+.isIE8 .pos .arrow div {
+	bottom: 1px;
+}
+
+.neg .arrow div {
+	top: 1px;
+	background-color: #CC0000;
+}
+.arrow div {
+	position: absolute;
+	left: 1px;
+	width: 7px;
+	line-height: 0;
+	margin: 0;
+	padding: 0;
+	height: 1px;
+}
+.arrow div div {
+	width: 5px;
+}
+.arrow div div div {
+	width: 3px;
+}
+.arrow div div div div {
+	width: 1px;
+}
+
+.pipettes {
+	position: relative;
+	top: 2px;
+	left: 1px;
+	font-weight: normal;
+	line-height: 1px;
+}

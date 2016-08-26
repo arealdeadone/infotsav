@@ -1,0 +1,8 @@
+replies
+{"status": "failed", "mobile": "+919754399739", "errors": {"401": "OTP is Wrong"}}    wrong otp
+{"status": "success", "mobile": "+919754399739", "message": "Mobile number is verified", "app_user_id": "9347e61051eb41cf8da3a72"}   right otp
+send
+https://www.cognalys.com/api/v1/otp/?app_id=bf05cb685ec84bef85c74ea&access_token=83fff487345f19dad2fcb7c56adcb042e912f997&mobile=+919754399739
+	{"status": "success", "keymatch": "8398c04165c848a8bb08896", "mobile": "+919754399739", "otp_start": "+177421"}
+{"status": "failed", "errors": {"303": "Mobile number is not valid"}}
+	https://www.cognalys.com/api/v1/otp/confirm/?app_id=bf05cb685ec84bef85c74ea&access_token=83fff487345f19dad2fcb7c56adcb042e912f997&keymatch=a97efe3f2998468b9638a4e&otp=+17742177615

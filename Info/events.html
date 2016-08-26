@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<head>
+ <meta charset="utf-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <link href="events.css" rel="stylesheet">
+ <link href="style.css" rel="stylesheet">
+ <link href="css/bootstrap.min.css" rel="stylesheet">
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+ <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.js"></script>
+ 
+ 
+
+</head>
+
+
+<body>  	  
+    <nav class="fixed-nav-bar navbar navbar-default" style="background-image="">
+      <div class="container">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-2">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+         <B> <a class="navbar-brand" href="#"><img src="img/a.png" style="width:40px; height:40px; margin-top:-14px">&nbsp;Infotsav</a> </B>
+        </div>
+    
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="navbar-collapse-2">
+          <ul class="nav navbar-nav navbar-right">
+			<?php if($inv == 1){
+			?>
+			<li>
+				<h3 style="color:red">Invalid Sign In!</h3>
+			<li>
+			<?php
+			}
+			?>
+		  
+            <li><a href="#">Home</a></li>
+            <li><a href="#aman">About</a></li>
+            <li><a href="#showcase">Mobile app</a></li>
+            <li><a href="#">Events</a></li>
+            <li><a href="#">Sponsors</a></li>
+            <li><a href="#">Contact</a></li>
+            
+				<?php
+				if(isset($_SESSION['uname'])){
+				?>
+				<li>
+					<a class="btn btn-default btn-outline btn-circle collapsed fa fa-user"  data-toggle="collapse" aria-controls="nav-collapse2">&nbsp; welcome<b> <?php echo $_SESSION['uname']; ?></b></a>
+				</li>
+				<li>
+					<a class="btn btn-default btn-outline btn-circle collapsed "  href="logout.php" >&nbsp;<span class="glyphicon glyphicon-log-out"></span> Logout</a>
+				</li>
+				<?php
+				}else{
+				?>
+				<li>
+					<a class="btn btn-default btn-outline btn-circle collapsed fa fa-user"  data-toggle="collapse" href="#nav-collapse2" aria-expanded="false" aria-controls="nav-collapse2">&nbsp; Sign in</a>
+				</li>
+				
+				<?php
+				}
+				?>
+				
+			
+          </ul>
+		  
+          <div class="collapse nav navbar-nav nav-collapse slide-down" id="nav-collapse2">
+            <form class="navbar-form navbar-right form-inline" role="form" action="index.php" method="POST">
+              <div class="form-group">
+                <label class="sr-only" for="Email">Email</label>
+                <input type="email" class="form-control" name="lemail" id="Email" placeholder="Email" autofocus required />
+              </div>
+              <div class="form-group">
+                <label class="sr-only" for="Password">Password</label>
+                <input type="password" class="form-control" name="lpwd" id="Password" placeholder="Password" required />
+              </div>
+              <button type="submit" class="btn btn-success" name="signin">Sign in</button>
+            </form>
+          </div>
+		  
+        </div><!-- /.navbar-collapse -->
+      </div><!-- /.container -->
+    </nav><!-- /.navbar -->
+
+			<div class="content_white container"> 				
+   				
+
+                
+   				<h3>Technical events</h3>
+   				<p >Techniche presents one of its most distinguished event- The Lecture Series, which serves as a platform to inspire and motivate thousands of young minds across the world by connecting them with the pioneers in various fields. Students and professors, participants and school children alike, all clamour into the auditorium to interact with illustrious figures from all walks of life who  come under one roof and share their experiences and ideas. The motivation behind the Lecture Series is to showcase a rich spectrum of ideas and behind the scenes of awe inspiring science. It brings you an opportunity to interact with such personalities who are at the helm of changing our world today. Previous speakers who have graced the lecture series include the likes of John C. Mather (The 2006 Physics Nobel Laureate), Lyn Evans (Project Leader, Large Hadron Collider, CERN), Pranav Mistry (The Inventor of 6th Sense Technology), Stephen P. Morse (Chief Architect, Intel 8086 Microprocessor), Richard Stallman (Founder, Free Software Movement), Walter Bender (Ex-Director, MIT Media Labs), etc. Having gained immense popularity over the past few years, it is widely recognized as the biggest and the best lecture series in the entire nation and we are sure that we'll be successful in outdoing ourselves yet again. So come, listen and get inspired!</p>
+			    
+                
+			</div>
+			
+            
+			<div class="content-section-b">
+             
+             <div class="container">
+
+     	         <div class="row">
+        		     <div class="col-lg-5 right_box ">
+             		      <div class="clearfix"></div>
+            		  
+            		       <h2 class="animated bounceInLeft" >Dr. Peter Atkins</h2>
+            		       <p  class="animated bounceInLeft"> Peter Atkins, one of the world's leading authorities on physical and inorganic chemistry has combined authority with wit, accessibility, charm and style in his writings. He is a prolific writer of popular chemistry textbooks such as Physical Chemistry, Inorganic Chemistry, and Molecular Quantum Mechanics, which are a must have on every engineering student's book shelf.Through books such as "What is Chemistry?", he has forced the world to see what seemed like a fact-rich, largely incomprehensible subject in an entirely different light.</p>
+            	          </div>
+						  
+						  
+						  <div class="col-lg-5"  >
+                       <div class="clearfix"></div>
+                           <img class="img-responsive"  src="img/a.png" style="max-height:60%; text-align:center ;"alt="">
+                          
+                         
+     	                   
+   		             </div>
+                       
+                  </div>
+
+               </div>
+           </div>
+   
+
+           <div class="content-section-a">
+
+ 		        <div class="container">
+
+
+                  
+
+ 		           <div class="row">
+				   
+				    <div class="col-lg-5"  >
+                       <div class="clearfix"></div>
+                           <img class="img-responsive"  src="img/a.png" style="max-height:60%; text-align:center ;"alt="">
+                          
+                         
+     	                   
+   		             </div>
+                   
+                    
+                 <div class="col-lg-5  ">
+                       <div class="clearfix"></div>
+                            <h2  class="animated bounceInRight" >Dr. Tessy Thomas </h2>
+ 		                   <p  class="animated bounceInRight"> Honoured by the title &#34;Missile Woman of India&#34;, the &#34;Agni Putri&#34; Mrs Thomas&#39;s fascination with rockets and missiles began in her childhood, which later cultivated into holding the title of being the first woman scientist to head a missile project in India.A pioneer in her field and an expert on all solid propellants systems, she has held the role of the Project Director for 5,000 km range Agni-V in 2009, based at the Advanced Systems Laboratory in Hyderabad, which was successfully tested on 19 April 2012. Prior to this, she was also an associate project director of the 3,000 km range Agni-III missile project and the project director for mission Agni IV which was successfully tested in 2011.
+                           </p>
+                           
+                          
+                         
+     	                   
+   		             </div>
+
+                   
+                       
+
+ 		       </div>
+       
+			</div>
+			</div>
+
+             
+          
+
+			<div class="content-section-b">
+
+             <div class="container">
+
+     	         <div class="row">
+        		    <div class="col-lg-5 ">
+             		      <div class="clearfix"></div>
+            		  
+            		       <h2  class="animated bounceInLeft">Christer Fuglesang </h2>
+            		       <p  class="animated bounceInLeft">Astronaut, European Space Agency(ESA)Sky is not the limit, ladies and gentlemen! Not for this man. Meet Christer Fuglesang. 
+
+With two space shuttle missions and five space walks, he has achieved feats that most only dream of. Having started out as a Fellow at CERN and teaching mathematics at the Royal Institute of Technology, he was, in 1992 selected to join the European Astronaut Corps. He is the first Swedish citizen in space and also the first person outside of the United States or Russian space programs to participate in more than three spacewalks. 
+
+The striking beauty and the sheer inconceivable quality of his experiences made us extremely proud and equally excited to have him as a keynote speaker.
+
+The man and his words lit up our imagination and sent it rocketing into outer space</p>
+            	          </div>
+						  
+						  <div class="col-lg-5"  >
+                       <div class="clearfix"></div>
+                           <img class="img-responsive"  src="img/a.png" style="max-height:60%; text-align:center ;"alt="">
+                          
+                         
+     	                   
+   		             </div>
+                       
+                  </div>
+
+               </div>
+			</div>
+
+
+</body>

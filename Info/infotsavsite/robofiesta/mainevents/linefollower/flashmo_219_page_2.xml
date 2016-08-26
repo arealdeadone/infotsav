@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+	<item>
+		<content><![CDATA[<span align="center" class="title"><font size="+4">OBJECTIVE</font></span>
+<p align="justify"><font size="14">This basic robot has to follow the black line on the background, taking the right turns. The follower has to complete the race without losing the line. Each team gets one chance, and the team which finishes the race accurately in the least time wins.
+ </font></p> ]]></content>
+	</item>
+</items>

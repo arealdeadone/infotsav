@@ -1,0 +1,118 @@
+.content_white h3{
+
+	color:#1bba9c;
+	font-weight: 700;
+	font-size: 250%;
+	
+
+
+	}
+	
+	.abcd {background:  url('../img/diam.png') ;
+	background-attachment:fixed;}
+	
+
+.content_white p{
+	
+	border-top-style: solid;
+	border-width: 2px;
+	border-color: #1bba9c;
+	padding-top: 1em;
+	margin-bottom:80px;
+	margin-top:30px;
+	text-align: justify;
+    column-count: 2;
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-gap: 35px;
+    -webkit-column-gap: 35px;
+    -moz-column-gap: 35px;
+
+}
+
+.content-section-a {
+    color:#333;
+    background-color: rgba(248,248,248,0.5);
+    vertical-align: middle;    
+    padding-top: 70px;
+    padding-bottom: 90px;
+/*    border-bottom-style:solid;
+    border-bottom-width:thin;
+    border-bottom-color: rgb(248,248,248);*/
+}
+.content-section-a h2{
+    
+    color:#1bba9c;
+    font-weight: 600;
+   
+
+    
+}
+.content-section-b h2{
+    color:#1bba9c;
+    font-weight: 600;
+ 
+ }
+
+ .content-section-a p{
+      border-top-style: solid;
+     border-width: 2px;
+     border-color: #1bba9c;
+     padding-top:1em;
+	 text-align:justify;
+   
+
+    
+}
+
+.content-section-b p{
+       border-top-style: solid;
+  border-width: 2px;
+  border-color: #1bba9c;
+  padding-top:1em;
+  text-align:justify;
+ }
+
+
+
+.content-section-b {
+    
+    background-color: rgba(230,230,230,0.5);
+    vertical-align: middle;
+    padding-bottom: 70px;
+    padding-top: 90px;
+}
+
+.clearfix:after {
+    clear: both;
+    content: ".";
+    display: block;
+    height: 0;
+    visibility: hidden;
+}
+.clearfix {
+    display: inline-block;
+}
+.clearfix {
+    display: block;
+}
+
+.right_box{right:0px}
+
+
+
+.Read-more{
+  float: left;
+  padding: .8em 1em;
+  
+  z-index:11;
+  color: #1BBA9C;
+  border-radius: 1em;
+  border-style: solid;
+  border-width: 1.5px;
+  border-color: #1BBA9C;
+}
+
+.Read-more:hover{
+color:#fff;
+background-color:#1BBA9C}

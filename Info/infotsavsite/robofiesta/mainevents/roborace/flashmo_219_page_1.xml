@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+	<item>
+		<content><![CDATA[<span align="center" class="title"><font size="+4">Robo Race</font></span>
+<p align="justify"><font size="14">Robo Race is a simple and entry level Robotics competition where couple of Robots would be competing with each other in terms of speed and accurate control.
+ </font></p><p align="justify"><font size="14"><b>ROBOTS PER EVENT : </b>One</br>
+<b>LENGTH OF EVENT : </b>Game Play</br>
+<b>ROBOT WEIGHT RANGE :</b>2 KG</br>
+<b>ROBOT DIMENTIONS :</b>30 cm BY 30 cm<br>
+<b>ARENA SPECIFICATIONS :</b>Actual<br>
+<b>ROBOT CONTROLS :</b>Remote control<br>
+<b>ENGINEERING PRINCIPLES :</b>Computer Science, sensor integration, mechanical engineering, fuzzy logic.<br>
+<b>EVENT SUMMARY :</b>Two bots race against each other , the winner gets on to other round , the one that goes on till the end wins.</font></p> 
+ ]]></content>
+	</item>
+</items>

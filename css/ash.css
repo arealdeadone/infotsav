@@ -1,0 +1,39 @@
+/* Me */
+
+#player {
+    position: absolute;
+    width: 32px;
+    height: 48px;
+    background: url(../images/ASH.png) no-repeat 0 0;
+    top: 20px;
+    z-index: 53;
+}
+
+#player::after {
+    background: rgba(0, 0, 0, 0.3);
+    width: 16px;
+    height: 19px;
+    content: "";
+    bottom: -8px;
+    left: 8px;
+    position: absolute;
+    border-radius: 75px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);
+    z-index: 12;
+}
+
+/*#daniel.down {
+	background: url(../images/ASH.png) no-repeat 0px 0px;
+}
+
+#daniel.up {
+	background: url(../images/ASH.png) 0px 0px;
+}
+
+#daniel.right {
+	background: url(../images/ASH.png) 0 0;
+}
+
+#daniel.left {
+	background: url(../images/ASH.png) 0 0;
+}*/

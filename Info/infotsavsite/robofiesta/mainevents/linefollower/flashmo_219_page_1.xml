@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+	<item>
+		<content><![CDATA[<span align="center" class="title"><font size="+4">Line Follower</font></span>
+<p align="justify"><font size="14">The Line Follower will basically be an event for the beginners in which they will have to compete with their line following robots in the given arena and beat their respective opponents in terms of speed and time limits.
+ </font></p><p align="justify"><font size="14"><b>ROBOT PER EVENT :</b>One Or Knock Out</br>
+<b>LENGTH OF EVENT : </b>3 Minutes</br>
+<b>ROBOT WEIGHT RANGE :</b> At Max 5Kg</br>
+<b>ROBOT DIENTIONS: </b>25X25X25 cm<br>
+<b>ARENA SPECIFICATIONS :</b>As Per Center<br>
+<b>ROBOT CONTROLS :</b>Autonomous <br>
+<b>ENGINEERING PRINCIPLES :</b>	Art,mechanical engineering, electrical engineering, computer science, etc..<br>
+<b>EVENT SUMMARY :</b> 	This basic robot has to follow the black line on the background, taking the right turns. The follower has to complete the race without losing the line. Each team gets one chance, and the team which finishes the race accurately in the least time wins.</font></p> 
+ ]]></content>
+	</item>
+</items>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link rel="stylesheet" type="text/css" href="#" /> 
+</head>
+
+<body><center>
+<div id="datacontainer" style="position: absolute; left: 1px; top: -83px; width: 100%;" onmouseover="scrollspeed=0" onmouseout="scrollspeed=cache">
+<font color="#ddd" font-size="-2">
+
+<p> Plz register ur self at Infotsav . </p>
+      <br>
+	  <p> Start your research work and brush up your stratigies bcoz Forex will begin on 21st september 0930 hrs sharp. </p>
+	  <br>
+	  <p> Forex market is open 24 hours,from Monday to Friday</p>
+      <br>
+      <p>Use charts and table to make your decision</p>
+      <br>
+		<p>Rank is updated regularly, so stay tuned to see your status .</p>
+		<br>
+	
+	  <!--<p>The Trial round will end on 29th september 5 P.M.</p>-->
+	  <br>
+	  <p> Put Your Money in Trust not Your Trust in Money.</p>
+	<br>
+	
+	
+		</font>
+</div></center>
+<script type="text/javascript">
+
+
+/***********************************************
+* IFRAME Scroller script- ? Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+//Specify speed of scroll. Larger=faster (ie: 5)
+var scrollspeed=cache=1
+
+//Specify intial delay before scroller starts scrolling (in miliseconds):
+var initialdelay=500
+
+function initializeScroller(){
+dataobj=document.all? document.all.datacontainer : document.getElementById("datacontainer")
+dataobj.style.top="5px"
+setTimeout("getdataheight()", initialdelay)
+}
+
+function getdataheight(){
+thelength=dataobj.offsetHeight
+if (thelength==0)
+setTimeout("getdataheight()",10)
+else
+scrollDiv()
+}
+
+function scrollDiv(){
+dataobj.style.top=parseInt(dataobj.style.top)-scrollspeed+"px"
+if (parseInt(dataobj.style.top)<thelength*(-1))
+dataobj.style.top="5px"
+setTimeout("scrollDiv()",40)
+}
+
+if (window.addEventListener)
+window.addEventListener("load", initializeScroller, false)
+else if (window.attachEvent)
+window.attachEvent("onload", initializeScroller)
+else
+window.onload=initializeScroller
+
+</script>
+
+</body>
+</html>
