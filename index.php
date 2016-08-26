@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 	require_once 'core/init.php';
 	$user = new User();
 	if($user->isLoggedIn()){
@@ -163,7 +163,7 @@
 	<audio autoplay="autoplay" src="audio/aud.mp3" id="music">
 		<embed src="audio/aud.mp3" hidden="true" loop="false" autostart="true" height="0" width="0" style="z-index: -99; display: ;"></embed>
 	</audio>
-	<!-- Facebook like -->
+	<!-- Facebook like
 	<div id="fb-root"></div>
 	<script>(function(d, s, id) {
 			var js, fjs = d.getElementsByTagName(s)[0];
@@ -171,7 +171,7 @@
 			js = d.createElement(s); js.id = id;
 			js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.7&appId=1575460229415952";
 			fjs.parentNode.insertBefore(js, fjs);
-		}(document, 'script', 'facebook-jssdk'));</script>
+		}(document, 'script', 'facebook-jssdk'));</script> -->
 
 
 	<!-- Loader -->
@@ -309,7 +309,10 @@
 		</div>
 		<div id="leftFence"></div>
 		<div id="rightFence"></div>
-
+		
+		<!-- Player -->
+		<div id='player'></div>
+		
 		<!-- Stop Station 1 -->
 		<div id="aboutRoad" class="road side">
 
@@ -355,7 +358,7 @@
 						<div class="inner">
 							<a class="portfolioImg" href="Info/gamiacsnew.php" target="_blank">
 								<img src="images/events/Gamiacs.png" alt="Gamiacs" />
-
+							</a>
 							<h4 style="font-size:200%;"><strong>Gamiacs</strong></h4>
 							<p></p>
 						</div>
